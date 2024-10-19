@@ -5,6 +5,8 @@ This project is a simple website designed to promote the idea that sharing knowl
 ## Description
 "Knowledge Increases as We Share" is a responsive website designed to promote the sharing of knowledge and ideas. The website features a sleek navigation bar, an image slider, and sections that introduce the organization and its team members.
 [path](https://github.com/Otomatikci/Website_with_Bootstrap/edit/main/README.md)/to/your-gif.gif
+![Website-with-Bootstrap-09 10 2024](https://github.com/user-attachments/assets/a2e7da21-38f9-400f-bc86-5dfad535ea0a)
+
 
 ## Features
 - Responsive Design: The website is optimized for various screen sizes using Bootstrap.
