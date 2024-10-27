@@ -20,4 +20,4 @@ This project is a simple website designed to promote the idea that sharing knowl
 - **Bootstrap**: Front-end framework for responsive design.
 - **Font Awesome**: Icons used throughout the site.
 
-  #git clone [https://github.com/otomatikci/knowledge-increases-as-we-share.git](https://github.com/Yasin-Erkan/Website_with_Bootstrap/tree/main)
+  #git clone ([https://github.com/Yasin-Erkan/Website_with_Bootstrap/tree/main](https://github.com/yasin-erkan/Website_with_Bootstrap))
