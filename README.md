@@ -3,6 +3,7 @@
 ## 📖 Project Overview
 
 **Website with Bootstrap** is a simple yet elegant responsive website designed to promote the idea that **sharing knowledge enriches everyone**. This project features a responsive navbar, a carousel slider for images, and dedicated sections to introduce the organization and its talented team.
+
 ![Knowledge Sharing GIF](Website-with-Bootstrap-09.10.2024.gif)
 
 ### 💡 Knowledge Increases as We Share
